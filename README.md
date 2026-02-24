@@ -1,11 +1,11 @@
-# PyTorch Multiclass Classification
+# pytorch multiclass classification
 
-A starter template for multiclass classification in PyTorch.
+![CI](https://github.com/vice-president/pytorch-multiclass-classification/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## Features
-- Synthetic multi-class dataset
-- MLP classifier
-- Cross-entropy training loop
+A practical PyTorch starter project with reproducible training and GitHub Actions CI.
 
 ## Quickstart
 ```bash
